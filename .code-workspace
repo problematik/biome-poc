@@ -1,0 +1,24 @@
+{
+  "folders": [{
+    "name": "Apps",
+    "path": "services/first/apps"
+  }, {
+    "name": "First",
+    "path": "services/first"
+  }, {
+    "name": "Second",
+    "path": "services/second"
+  }],
+  "settings": {
+    "biome.projects": [{
+      "name": "Apps",
+      "path": "services/first/apps"
+    }, {
+      "name": "First",
+      "path": "services/first"
+    },{
+      "name": "Second",
+      "path": "services/second"
+    }]
+  }
+}

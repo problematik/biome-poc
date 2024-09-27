@@ -1,4 +1,7 @@
 {
+  "extensions": {
+    "recommendations": ["biomejs.biome"]
+  },
   "folders": [{
     "name": "Apps",
     "path": "services/first/apps"

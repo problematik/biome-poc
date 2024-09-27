@@ -1,0 +1,14 @@
+{
+  "private": true,
+  "name": "acme",
+  "workspaces": {
+    "packages": [
+      "services/first",
+      "services/second",
+      "services/first/apps"
+    ]
+  },
+  "devDependencies": {
+    "@biomejs/biome": "1.9.2"
+  }
+}
